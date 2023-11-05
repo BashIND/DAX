@@ -12,7 +12,7 @@ from datetime import datetime
 
 API_ID = "25450075"
 API_HASH = "278e22b00d6dd565c837405eda49e6f2"
-BOT_TOKEN = os.environ.get("6419425608:AAFWe4ZafpcI_J8n2xkw4ovrF4DWem7qxDk") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN" None) 
 MONGO_URL = "mongodb+srv://kuldiprathod2003:kuldiprathod2003@cluster0.wxqpikp.mongodb.net/?retryWrites=true&w=majority"
 DATABASE_NAME = os.environ.get("DATABASE_NAME") 
 BOT_USERNAME = os.environ.get("BOT_USERNAME")
